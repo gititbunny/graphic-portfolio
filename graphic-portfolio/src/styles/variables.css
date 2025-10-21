@@ -1,0 +1,9 @@
+:root {
+  --container-max: 1200px;
+  --gutter: 24px;
+  --grid-gap: 24px;
+  --bg: #ffffff;
+  --fg: #0f0f0f;
+  --muted: #666666;
+  --border: #eaeaea;
+}
