@@ -1,0 +1,25 @@
+.site-header {
+  border-bottom: 1px solid var(--border);
+  background: #fff;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+}
+.logo {
+  font-weight: 700;
+  font-size: 18px;
+}
+.nav a {
+  margin-left: 24px;
+  color: #333;
+}
+.nav a.active {
+  color: #000;
+  font-weight: 600;
+}
