@@ -6,7 +6,7 @@ export default function Header() {
     <header className="site-header">
       <div className="container header-inner">
         <Link to="/" className="logo">
-          Nina Nkhwashu
+          Git It Bunny
         </Link>
         <nav className="nav">
           <NavLink to="/" end>
